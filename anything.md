@@ -26,7 +26,7 @@ I enjoy working on personal projects that challenge my problem-solving skills, a
 
 ## 📈 GitHub Stats
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)](https://github.com/your-github-username)
+[![Jacqueline's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)](https://github.com/your-github-username)
 
 ---
 
@@ -66,7 +66,7 @@ A project where I visualized some basic data using Python and Matplotlib.
 
 ## 📫 How to Reach Me
 
-- **Email:** your-email@example.com
+- **Email:** jacqueliner100@nycstudents.net
 - **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-profile)
 - **Twitter:** [@your-twitter-handle](https://twitter.com/your-twitter-handle)
 
